@@ -1,0 +1,89 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-ott-2014, 10.11.05
+    Author     : corsojava
+*/
+@import url(http://fonts.googleapis.com/css?family=Vollkorn:700italic);
+/*@media (min-width: 1200px) {};*/
+
+/*@media (min-width: 768px) and (max-width: 979px) {};*/
+
+
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #c1e2b3;
+    height: 800px;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left:30px;
+    margin-right: 30px;
+
+    color: darkmagenta;
+
+    background-image: url("gatto.jpg");
+    /*background-image: url("img_flwr.gif");*/
+    background-repeat: no-repeat;
+    background-position: right bottom;
+
+/*    background-image: url("prova.PNG");
+    background-repeat: no-repeat;
+    background-position: left bottom;*/
+}
+
+#header{    
+    /*height: 100;*/
+    /*padding-top: 100;*/
+    margin-bottom: 60px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: crimson;
+    
+/*    background-image: url("gatto.jpg");
+    background-repeat: no-repeat;
+    ckground-position: right top;*/
+    /*margin-left: 200px;*/
+    
+}
+
+#main{
+    margin-right: 70px;
+}
+
+#menu{
+    /*height: 50;*/
+    margin-left: 0px;
+    margin-right: 0 px;
+    margin-bottom: 30px;
+}
+
+#lista{
+    border: 1px solid #666;
+    border-radius: 5px;
+    background: #d0e9c6;
+    margin: 0 auto;
+    padding: 12px;
+    width: 989px;
+}
+
+#guadagno{
+    border: 1px solid #666;
+    border-radius: 5px;
+    background: #d0e9c6;
+    margin: 0 auto;
+    padding: 12px;
+    width: 989px;
+    
+    text-align: center;
+}
+
+h2{
+    color:deeppink;
+}
